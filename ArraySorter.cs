@@ -115,6 +115,7 @@ namespace Assignment2_ArraySorter
             if (!_isAscending)
             {
                 _isAscending = true;
+                _isSorted = false;
                 BuildHeap();
             }
 
@@ -136,10 +137,11 @@ namespace Assignment2_ArraySorter
             if (_isAscending)
             {
                 _isAscending = false;
+                _isSorted = false;
                 BuildHeap();
             }
 
-            if (_isSorted)
+            if (!_isSorted)
             {
                 int length = Size;
                 for (int i = length-1; i >= 0; i--)
