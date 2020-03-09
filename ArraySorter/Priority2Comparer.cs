@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Assignment2_ArraySorter
+namespace ArraySorter
 {
     public class Priority2Comparer : IComparer<Data>
     {

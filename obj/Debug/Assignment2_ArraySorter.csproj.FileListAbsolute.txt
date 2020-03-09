@@ -1,5 +1,0 @@
-C:\Users\s_ele\RiderProjects\Algoritmer og Datastrukturer\Assignment2_ArraySorter\bin\Debug\Assignment2_ArraySorter.exe
-C:\Users\s_ele\RiderProjects\Algoritmer og Datastrukturer\Assignment2_ArraySorter\bin\Debug\Assignment2_ArraySorter.pdb
-C:\Users\s_ele\RiderProjects\Algoritmer og Datastrukturer\Assignment2_ArraySorter\obj\Debug\Assignment2_ArraySorter.csprojAssemblyReference.cache
-C:\Users\s_ele\RiderProjects\Algoritmer og Datastrukturer\Assignment2_ArraySorter\obj\Debug\Assignment2_ArraySorter.exe
-C:\Users\s_ele\RiderProjects\Algoritmer og Datastrukturer\Assignment2_ArraySorter\obj\Debug\Assignment2_ArraySorter.pdb

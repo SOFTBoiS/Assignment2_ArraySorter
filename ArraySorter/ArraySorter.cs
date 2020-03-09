@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Assignment2_ArraySorter
+namespace ArraySorter
 {
     public class ArraySorter<T>  where T: IComparable<T>
     {

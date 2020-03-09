@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Assignment2_ArraySorter
+namespace ArraySorter
 {
     internal class Program
     {
@@ -77,9 +77,9 @@ namespace Assignment2_ArraySorter
             }
             
             Console.WriteLine("----------------------");
-            Console.WriteLine("Print ascending numbers");
+            Console.WriteLine("Print descending numbers");
             
-            arraySorter.SortAscending();
+            arraySorter.SortDescending();
 
             foreach (var item in arraySorter.Items)
             {

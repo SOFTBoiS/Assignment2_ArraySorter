@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Assignment2_ArraySorter")]
+[assembly: AssemblyTitle("ArraySorter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Assignment2_ArraySorter")]
+[assembly: AssemblyProduct("ArraySorter")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6B51345D-6C05-46B5-B5A0-102BCE54987A")]
+[assembly: Guid("684A6033-8A2A-4DE5-9AF2-490939D0D86F")]
 
 // Version information for an assembly consists of the following four values:
 //

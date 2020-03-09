@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assignment2_ArraySorter
+namespace ArraySorter
 {
     public class Data : IComparable<Data>
     {
